@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... full satck - study
 - 🌱 I’m currently learning ... full stack
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... andresbikett♠4gmail.com
+- 📫 How to reach me ... andresbikett@gmail.com
 
 <!---
 andresfelipebr/andresfelipebr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
