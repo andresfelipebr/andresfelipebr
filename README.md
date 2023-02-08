@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andresfelipebr
-- 👀 I’m interested in ... full satck - study
-- 🌱 I’m currently learning ... full stack
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full satck - study
+- 🌱 I’m currently learning Back End  
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... andresbikett@gmail.com
 
 <!---
